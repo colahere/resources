@@ -48,7 +48,7 @@ $data = [
 #        'invTypes',
 #        'invUniqueNames',
         'mapDenormalize',
-#        'ramActivities',
+        'ramActivities',
 #        'staStations',
         'dgmAttributeCategories',
         'dgmAttributeTypes',
