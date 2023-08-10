@@ -49,7 +49,7 @@ $data = [
 #        'invUniqueNames',
         'mapDenormalize',
         'ramActivities',
-#        'staStations',
+        'staStations',
         'dgmAttributeCategories',
         'dgmAttributeTypes',
         'dgmEffects',
