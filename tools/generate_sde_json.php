@@ -40,7 +40,7 @@ $data = [
         'invItems',
 #        'invMarketGroups',
 #        'invMetaGroups',
-#        'invMetaTypes',
+        'invMetaTypes',
 #        'invNames',
         'invPositions',
         'invTypeMaterials',
