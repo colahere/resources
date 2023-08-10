@@ -49,6 +49,15 @@ $data = [
         'mapDenormalize',
         'ramActivities',
         'staStations',
+            'dgmAttributeCategories',
+            'dgmAttributeTypes',
+            'dgmEffects',
+            'dgmExpressions',
+            'industryActivity',
+            'industryActivityMaterials',
+            'industryActivityProducts',
+            'industryActivitySkills',
+            'industryBlueprints',
     ],
 ];
 
